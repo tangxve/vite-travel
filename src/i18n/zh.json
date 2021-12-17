@@ -1,0 +1,19 @@
+{
+  "header": {
+    "slogan": "让旅行更幸福",
+    "add_new_language": "添加新语言",
+    "title": "Listen to Baibai 旅游网",
+    "register": "注册",
+    "signin": "登陆"
+  },
+  "footer": {
+    "detail": "版权所以 ©️ 花果水帘洞齐天大圣"
+  },
+  "home_page": {
+    "hot_recommended": "爆款推荐",
+    "new_arrival": "新品上市",
+    "domestic_travel": "国内游推荐",
+    "joint_venture": "合作企业",
+    "start_from": "(起)"
+  }
+}

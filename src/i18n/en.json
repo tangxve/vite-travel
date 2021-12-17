@@ -1,0 +1,19 @@
+{
+  "header": {
+    "slogan": "Make travel happier",
+    "add_new_language": "add new language",
+    "title": "Listen to Baibai Travel",
+    "register": "Register",
+    "signin": "Sign In"
+  },
+  "footer": {
+    "detail": "All rights reserved @ 花果水帘洞齐天大圣"
+  },
+  "home_page": {
+    "hot_recommended": "Hot Recommended",
+    "new_arrival": "New arrival",
+    "domestic_travel": "Domestic travel",
+    "joint_venture": "Joint Venture",
+    "start_from": "(start from)"
+  }
+}
