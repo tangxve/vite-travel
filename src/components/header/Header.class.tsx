@@ -11,12 +11,9 @@ import zh from '../../i18n/zh.json'
 import { addLanguageActionCreator, changeLanguageActionCreator } from '../../redux/language/languageActions'
 import { connect } from 'react-redux'
 
-console.log('zh', zh)
-console.log('Object.keys', Object.keys)
-// todo
 // @ts-ignore
-// const menuItem = Object.keys(zh?.header?.nav).map(k => `header.nav.${k}`)
-const menuItem = []
+const menuItem = Object.keys(zh?.header?.nav)
+                       .map(k => `header.nav.${k}`)
 
 interface State extends LanguageState {}
 
